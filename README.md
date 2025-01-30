@@ -3,4 +3,4 @@
 # Зависимости
 git
 # Как установить?
-В консоль `git clone https://github.com/krevetkqqq/-govno-ton`, запускаем файл из `/-govno-ton/$govno-ton/bin/Debug/$govno-ton.exe`
+Из `release` разархивировать в папку без кириллицы в пути, открыть `$govno-ton.exe`, наслаждаться
