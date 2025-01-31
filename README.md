@@ -1,5 +1,5 @@
 # -govno-ton
-
+[virustotal check](https://www.virustotal.com/gui/file/4b043438f862df88555c9f1db1ea78a8b5f84600cfcb0c9f05e585e74b586872/details)
 # Зависимости
 dotnet 4.0
 
